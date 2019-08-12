@@ -1,0 +1,13 @@
+GRADE_A = 'A'
+GRADE_B = 'B'
+GRADE_C = 'C'
+
+GRADES = [GRADE_A, GRADE_B, GRADE_C]
+
+BELOW = 'BELOW'
+ABOVE = 'ABOVE'
+
+SUBJECT = [:sub_1, :sub_2, :sub_3, :sub_4]
+
+GRADE_A_THRESHOLD = 340
+GRADE_B_THRESHOLD = 300
